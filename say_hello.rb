@@ -3,4 +3,6 @@
 def say_hello
   your_name = "Heidi"
   puts "Hello #{your_name}"
-end 
+end  
+
+say_hello
